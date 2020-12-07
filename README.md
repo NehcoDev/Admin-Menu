@@ -12,6 +12,6 @@ Start le script :zany_face:
 
 Preview : https://streamable.com/3ibo3n
 
-**pour la function dans le es_extended venez dans mon discord 
+**pour la function dans le es_extended venez dans mon discord **
 
 https://discord.gg/Hk2jAjNV69
