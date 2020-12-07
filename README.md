@@ -1,10 +1,9 @@
-# Admin-Menu
+# Admin-Menu :snail:
 Il reste encore des gens qui disent qu'ils font mes script et ensuite ils les leak mhh mhhhhhh WIZZY (FIVE DEV) voici mon menu admin  faites de beaux rêves
 
 
 **Instalation**
 
-Mettre le SQL
 
 Start le script :zany_face:
 
